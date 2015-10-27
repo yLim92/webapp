@@ -1,3 +1,4 @@
+# Comments are great!
 FROM ubuntu:14.04
 MAINTAINER Docker Education Team <education@docker.com>
 RUN apt-get update
